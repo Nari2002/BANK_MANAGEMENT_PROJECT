@@ -1,4 +1,5 @@
-<h3>BANK MANAGEMENT</h3>
+<h3>BANK MANAGEMENT USING PYTHON CORE</h3>
+<h4>NOTE:this project is developed using basics of python it is fully beginner friendly</h4>
 <h2>Features Of These Project</h2>
 <ul>
 <li>open a new account</li>
