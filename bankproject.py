@@ -1,8 +1,4 @@
 import datetime
-import time
-
-#names=['nari','karthik','kishore','shiva','pavan','sai']
-#add=['ctl','warangal','warangal','hyd','yadadri','hyd']
 cust_name=[]
 cust_pin=[]
 c_address=[]
